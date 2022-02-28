@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  90-100.cpp
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  90-100.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  90-100.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\C++_programs(51-100)\90-100\Debug\90-100.exe
+  90-100.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\C++_programs(51-100)\90-100\Debug\90-100.pdb (Partial PDB)
