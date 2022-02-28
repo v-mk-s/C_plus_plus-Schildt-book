@@ -1,6 +1,6 @@
 # 📕 C++ from the Ground Up Book Source Samples
 
-This repository accompanies [*Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL*](https://www.amazon.com/Ground-Up-Third-Herbert-Schildt/dp/0072228970) by Herbert Schildt (2013). There is source code implemented manually.
+This repository accompanies [*C++ from the Ground Up*](https://www.amazon.com/Ground-Up-Third-Herbert-Schildt/dp/0072228970) by Herbert Schildt (2013). There is source code implemented manually.
 
 [comment]: #cover
 ![Cover image](https://user-images.githubusercontent.com/32800793/155970943-57fa0e2b-8486-448e-ac33-fc865e336a1c.png)
