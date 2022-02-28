@@ -1,6 +1,6 @@
-# Data Parallel C++ Book Source Samples
+# 📕 C++ from the Ground Up Book Source Samples
 
-This repository accompanies [*Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL*](https://www.apress.com/9781484255735) by James Reinders, Ben Ashbaugh, James Brodman, Michael Kinsner, John Pennycook, Xinmin Tian (Apress, 2020).
+This repository accompanies [*Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL*](https://www.amazon.com/Ground-Up-Third-Herbert-Schildt/dp/0072228970) by Herbert Schildt (2013). There is source code implemented manually.
 
 [comment]: #cover
 ![Cover image](https://user-images.githubusercontent.com/32800793/155970943-57fa0e2b-8486-448e-ac33-fc865e336a1c.png)
