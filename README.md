@@ -3,7 +3,7 @@
 This repository accompanies [*Data Parallel C++: Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL*](https://www.apress.com/9781484255735) by James Reinders, Ben Ashbaugh, James Brodman, Michael Kinsner, John Pennycook, Xinmin Tian (Apress, 2020).
 
 [comment]: #cover
-![Cover image](9781484255735.jpg)
+![Cover image](https://user-images.githubusercontent.com/32800793/155970943-57fa0e2b-8486-448e-ac33-fc865e336a1c.png)
 
 Many of the samples in the book are snips from the more complete files in this repository.  The full files contain supporting code, such as header inclusions, which are not shown in every listing within the book.  The complete listings are intended to compile and be modifiable for experimentation.
 
