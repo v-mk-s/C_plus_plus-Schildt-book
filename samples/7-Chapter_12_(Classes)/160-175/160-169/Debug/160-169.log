@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  160-169.cpp
+  AssemblyInfo.cpp
+  Generating Code...
+  160-169.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  160-169.vcxproj -> C:\Users\Vladik\Documents\1-Programming\1-Programs\1-С++\1-Programs_(book)\7-Chapter_12_(Classes)\160-175\Debug\160-169.exe
+  160-169.vcxproj -> C:\Users\Vladik\Documents\1-Programming\1-Programs\1-С++\1-Programs_(book)\7-Chapter_12_(Classes)\160-175\Debug\160-169.pdb (Partial PDB)
