@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  111-120.cpp
+111-120.cpp(155): error C2668: 'myfunc': ambiguous call to overloaded function
+  111-120.cpp(148): note: could be 'int myfunc(int,int)'
+  111-120.cpp(147): note: or       'int myfunc(int)'
+  111-120.cpp(155): note: while trying to match the argument list '(int)'
+  AssemblyInfo.cpp
+  Generating Code...
