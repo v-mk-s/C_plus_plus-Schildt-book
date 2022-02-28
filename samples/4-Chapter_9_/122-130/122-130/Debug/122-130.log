@@ -1,0 +1,6 @@
+﻿  122-130.cpp
+122-130.cpp(255): warning C4101: 'i': unreferenced local variable
+122-130.cpp(254): warning C4101: 'ch': unreferenced local variable
+  122-130.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  122-130.vcxproj -> C:\Users\Vladik\Documents\Programming\Programs\1-С++\1-C++_programs_(self-study_book)\4-Chapter_9\122-130\Debug\122-130.exe
+  122-130.vcxproj -> C:\Users\Vladik\Documents\Programming\Programs\1-С++\1-C++_programs_(self-study_book)\4-Chapter_9\122-130\Debug\122-130.pdb (Partial PDB)
