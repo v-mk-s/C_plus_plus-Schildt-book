@@ -1,0 +1,4 @@
+﻿  85-100.cpp
+  85-100.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  85-100.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\C++_programs(51-100)\85-89\Debug\85-100.exe
+  85-100.vcxproj -> C:\Users\Vladik\Documents\Programming\programs\C++_programs(51-100)\85-89\Debug\85-100.pdb (Partial PDB)
